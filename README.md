@@ -1,2 +1,3 @@
-# apnacollege.demo
-This is my first github repository.
+# apnacollege-demo
+This is my first git repository.
+Author-Kanishka Raj
